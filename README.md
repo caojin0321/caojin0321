@@ -1,5 +1,5 @@
-## Hi, I'm Aidan 👋
+## Hi, I'm Danny 👋
 
 Full-stack engineer, entrepreneur and product designer with a passion for building things that make a difference
 
-Come join us at Go AI!
+Come join us at Vital AI!
