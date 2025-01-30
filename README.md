@@ -1,5 +1,5 @@
-## Hi, I'm Danny 👋
+## Hi, I'm Robert 👋
 
 Full-stack engineer, entrepreneur and product designer with a passion for building things that make a difference
 
-Come join us at Vital AI!
+Come join us at Uma AI!
