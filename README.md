@@ -1,5 +1,5 @@
-## Hi, I'm David 👋
+## Hi, I'm Marco 👋
 
 Full-stack engineer, entrepreneur and product designer with a passion for building things that make a difference
 
-Come join us at Rudy AI!
+Come join us at Gravy AI!
