@@ -1,5 +1,5 @@
-## Hi, I'm Kash 👋
+## Hi, I'm Steve 👋
 
 Full-stack engineer, entrepreneur and product designer with a passion for building things that make a difference
 
-Come join us at Krazy AI!
+Come join us at Zenni AI!
