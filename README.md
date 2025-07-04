@@ -1,5 +1,5 @@
-## Hi, I'm Federico 👋
+## Hi, I'm Victor 👋
 
-Full-stack engineer, entrepreneur and product designer with a passion for building things that make a difference
+Managing Parnter R136 Ventures and entrepreneur with a passion for building things that make a difference
 
-Come join us at N3XT AI!
+Come join us at r136AI!
