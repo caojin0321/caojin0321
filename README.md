@@ -1,5 +1,5 @@
-## Hi, I'm Victor 👋
+## Hi, I'm Jose 👋
 
-Managing Parnter R136 Ventures and entrepreneur with a passion for building things that make a difference
+Passionate about building AI projects and integrating them into the modern world.
 
-Come join us at r136AI!
+Come join us at Yanda AI!
